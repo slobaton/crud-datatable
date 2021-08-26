@@ -1,0 +1,14 @@
+{
+    "name": "slobaton/crud-datatable",
+    "description": "This package use yajra datatable package with boopstrap",
+    "authors": [
+        {
+            "name": "Sergio Amilcar Lobaton Arcani",
+            "email": "lobaton.0722@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["src/helpers.php"]
+    }
+}
